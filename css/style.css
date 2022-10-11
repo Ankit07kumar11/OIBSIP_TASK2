@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Nunito:wght@200;300;400;600&display=swap');
 
 :root{
-    --yellow:#0891b2;
+    --yellow:#0891b3;
 }
 
 *{
@@ -16,7 +16,7 @@
 
 *::selection{
     background:var(--yellow);
-    color:#333;
+    color:#444;
 }
 
 html{
@@ -29,7 +29,7 @@ html::-webkit-scrollbar{
 }
 
 html::-webkit-scrollbar-track{
-    background:#222;
+    background:#444;
 }
 
 html::-webkit-scrollbar-thumb{
